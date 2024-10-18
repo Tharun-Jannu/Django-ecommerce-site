@@ -1,0 +1,47 @@
+Cognizant Technology Solutions Pvt. Ltd    Software Engineer   Software Developer
+
+Angular JS, React JS, JavaScript, TypeScript, HTML, and CSS     SQL, Python, and Django.
+
+Bachelor of Technology  Information Technology   Kakatiya Institute of Technology and Science
+
+https://www.linkedin.com/in/jannu-tharun-9977221a1    Immediate available to Join
+
+Hyderabad, Telangana, India     Warangal, Telangana, India     Paidi_pally    9059778173
+
+Role Description:
+• Developing single web pages using Angular JS, React JS, JavaScript, HTML, CSS, Python, and Django.
+• Conducting detailed analysis, design, coding, and implementation per client requirements using Agile Scrum methodology.
+• Creating and testing REST APIs, using Angular HTTPCLIENT for data binding, and designing CI/CD pipelines.
+• Write unit test cases for UI components, and interact with team and end users to develop new features.
+
+Notice period: Immediate joiner
+Highest Degree: Bachelor of Technology in Information Technology
+
+Current CTC: 660000
+Expected CTC: 1200000
+
+Reason for change:
+Seeking growth and new challenges in an innovative environment.
+
+I am looking for new challenges and growth opportunities to further develop my skills and advance my career.
+
+https://drive.google.com/file/d/1L2x5Z7_horVBzuIyQjuDNigqvn5lBhfy/view?usp=drive_link
+
+Cover letter:
+I am excited to apply for the Software developer position. With over 2+ years of experience in Angular JS, React JS, Python, JavaScript, HTML, and CSS, I excel in designing and maintaining dynamic web applications. My strong collaboration skills and expertise drive project success. I am impressed by your innovative approach and am eager to contribute my technical expertise and passion for high-quality web solutions to your team.
+
+During my tenure, I worked on a dynamic transportionstion web application project. As a front-end developer, I utilized AngularJS 
+and React JS, employing TypeScript and JavaScript to create interactive user interfaces. The project involved integrating 
+REST APIs for efficient data exchange and using HttpClient to ensure seamless communication between the client and server. 
+I applied Agile Scrum methodologies, including daily standups, sprint planning, and sprint reviews, to maintain iterative
+progress and ensure timely delivery. To expand my skill set and pursue full-stack development, I learned Python and Django, 
+which I used to handle server-side logic and database operations. SQL was utilized for effective data management and retrieval, 
+supporting CRUD operations within the application. This experience allowed me to build a comprehensive e-commerce platform 
+with robust front-end and back-end functionalities.
+
+During my tenure, I worked on a dynamic transportation web application project. As a front-end developer, I utilized AngularJS and React JS, 
+employing TypeScript and JavaScript to create interactive user interfaces. The project involved integrating REST APIs for efficient data 
+exchange and using HttpClient for seamless communication. I applied Agile Scrum methodologies, including daily standups, sprint planning, 
+and sprint reviews, to ensure timely delivery. To expand my skills and pursue full-stack development, I learned Python and Django for 
+server-side logic and database operations. SQL was used for data management and retrieval, supporting CRUD operations and comprehensive 
+application functionality.
